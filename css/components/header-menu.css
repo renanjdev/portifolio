@@ -1,0 +1,25 @@
+.header-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+    font-family: Poppins, sans-serif; 
+    margin-left: 50px; 
+}
+
+.header-menu .action {
+    justify-content: flex-start;
+    text-decoration: none;
+    color: white;
+    margin-left: 70px;
+    
+}
+
+
+
+
+.header-menu .logoSocial:hover {
+    transform: scale(1.08);
+    opacity: 0.96;
+    
+}
