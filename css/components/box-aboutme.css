@@ -1,0 +1,43 @@
+.box-aboutme {
+    box-sizing: border-box;
+    width: 860px;
+    height: 500px;
+    background: #171A1B;
+    opacity: 0.8;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px 15px 0px 0px;
+    border: 0.6px solid #2b2a2a;
+
+
+}
+
+.box-aboutme .boxText {   
+    font-family: Fira Sans, sans-serif;
+    font-size: 16px; 
+    margin-left: 130px; 
+    margin-top: 80px;
+    line-height: 21px;
+      
+}
+
+.box-aboutme .boxText .formatText {
+    color: #7000FF;
+}
+
+.box-aboutme .boxText .formatText.-second {
+    color: #fff;
+}
+
+.box-aboutme .boxText .formatText.-three {
+    color: #0EE6B7;
+    margin-left: 35px;
+}
+
+.box-aboutme .boxText .developer {
+    color: #fff;
+}
+
+.box-aboutme .boxText.-second {
+    margin-left: 35px;
+    margin-top: initial;
+}

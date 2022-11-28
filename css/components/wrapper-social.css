@@ -1,0 +1,14 @@
+.wrapper-social {
+    margin-right: 100px;
+}
+ 
+ 
+ .wrapper-social .logo-social {
+    margin-right: 30px;
+    
+  } 
+
+.logo-social:hover {
+    transform: scale(1.08);
+    opacity: 0.96;
+}

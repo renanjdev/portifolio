@@ -1,0 +1,31 @@
+.main-title {
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+    margin-left: 130px;
+    margin-top: 100px;
+}
+
+.main-title .title {
+
+    color: #fff;
+    font-weight: 700;
+}
+
+.main-title .subtitle {
+    
+    color: #1C1E22;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 108px;
+    letter-spacing: 0.055em;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #0EE6B7;
+}
+
+.subtitle.-second {
+    -webkit-text-stroke-width: initial;  
+    -webkit-text-stroke-color: initial; 
+    color: #0EE6B7
+}
