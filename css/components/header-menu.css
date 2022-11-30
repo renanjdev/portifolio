@@ -11,12 +11,8 @@
     justify-content: flex-start;
     text-decoration: none;
     color: white;
-    margin-left: 70px;
-    
+    margin-left: 70px;   
 }
-
-
-
 
 .header-menu .logoSocial:hover {
     transform: scale(1.08);
